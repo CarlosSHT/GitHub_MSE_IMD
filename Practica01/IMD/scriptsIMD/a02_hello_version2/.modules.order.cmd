@@ -1,0 +1,1 @@
+cmd_/home/carlos/IMD/scriptsIMD/a02_hello_version2/modules.order := {   echo /home/carlos/IMD/scriptsIMD/a02_hello_version2/hello_world.ko; :; } > /home/carlos/IMD/scriptsIMD/a02_hello_version2/modules.order

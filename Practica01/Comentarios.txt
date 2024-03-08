@@ -1,0 +1,5 @@
+- Carpeta "scriptsIMD" contiene dos versiones del código de hello_version.c, la cual la primera version contiene errores y esta incompleto, y la segunda version es el código final del módulo
+
+- Carpeta "linux_kernel" contiene el patch generado para actualizar el kernel y realizar la compilación in tree
+
+- la carpeta "buildroot" contiene los archivos fuente (hello_version.c Kconfig y Makefile) que se utilizan para la compilación in tree

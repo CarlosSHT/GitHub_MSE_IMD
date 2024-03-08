@@ -1,0 +1,1 @@
+cmd_/home/carlos/IMD/scriptsIMD/a01_hello_version/hello_world.mod := printf '%s\n'   hello_version.o | awk '!x[$$0]++ { print("/home/carlos/IMD/scriptsIMD/a01_hello_version/"$$0) }' > /home/carlos/IMD/scriptsIMD/a01_hello_version/hello_world.mod

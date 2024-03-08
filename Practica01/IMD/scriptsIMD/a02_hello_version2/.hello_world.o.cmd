@@ -1,0 +1,1 @@
+cmd_/home/carlos/IMD/scriptsIMD/a02_hello_version2/hello_world.o := /home/carlos/IMD/buildroot/buildroot/output/host/bin/arm-none-linux-gnueabihf-ld  -EL -z noexecstack     -r -o /home/carlos/IMD/scriptsIMD/a02_hello_version2/hello_world.o @/home/carlos/IMD/scriptsIMD/a02_hello_version2/hello_world.mod 

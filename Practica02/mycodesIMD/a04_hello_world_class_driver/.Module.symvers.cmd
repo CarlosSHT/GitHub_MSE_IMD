@@ -1,0 +1,1 @@
+savedcmd_/home/carlos/IMD/mycodesIMD/a04_hello_world_class_driver/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/carlos/IMD/mycodesIMD/a04_hello_world_class_driver/Module.symvers -T /home/carlos/IMD/mycodesIMD/a04_hello_world_class_driver/modules.order -i Module.symvers -e 

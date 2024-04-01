@@ -1,0 +1,1 @@
+savedcmd_/home/carlos/IMD/mycodesIMD/a06_hello_platform_driver/modules.order := {   echo /home/carlos/IMD/mycodesIMD/a06_hello_platform_driver/hello_platform_driver.o; :; } > /home/carlos/IMD/mycodesIMD/a06_hello_platform_driver/modules.order

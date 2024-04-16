@@ -1,0 +1,1 @@
+savedcmd_/home/carlos/IMD/GitHub_MSE_IMD/TP_Final/codigos_fuente/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/carlos/IMD/GitHub_MSE_IMD/TP_Final/codigos_fuente/Module.symvers -T /home/carlos/IMD/GitHub_MSE_IMD/TP_Final/codigos_fuente/modules.order -i Module.symvers -e 
